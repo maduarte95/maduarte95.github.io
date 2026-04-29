@@ -8,22 +8,11 @@ redirect_from:
 ---
 
 
-This is my website. It is under construction.
+PhD student in Neuroscience and medical doctor interested in human–AI interaction, natural and artificial cognition, and philosophy of mind.
 
-This is a title
-======
-This is some text.
+I research how humans and artificial agents adapt to each other's cognitive strategies to achieve synergistic collaborations. Interested in memory, cognitive maps and narratives of self.
 
-This is another title
-======
-This is some more text.
-
-This is a subtitle
-------
-This is some text under a subtitle.
-
-[This is a link to the original theme](https://mmistakes.github.io/minimal-mistakes/) 
-![This is an image](/images/editing-talk.png)
+Enhancing collaborations for reciprocal enhancement between humans and AI systems and collective flourishing.
 
 
 
